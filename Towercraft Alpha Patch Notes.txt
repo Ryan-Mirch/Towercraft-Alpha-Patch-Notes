@@ -8,6 +8,7 @@
 - Ability range indicators are now visible everywhere instead of just on existing tiles
 - Tutorial text now moved from the homepage to the tutorial button in the level select
 - Formatted Patch Notes
+- Upgrade cost is now displayed on the tower upgrade button
 
 [font_size=20][u]Bug Fixes[/u][/font_size]
 - You can now exit the hero select menu by pressing escape
