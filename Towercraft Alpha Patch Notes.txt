@@ -1,27 +1,29 @@
-[font_size=28]2022-09-22: Alpha 2.02[/font_size]
+[font_size=30]Alpha 2.02 - 9/22/2022[/font_size]
 
 [font_size=20][u]Quality of Life[/u][/font_size]
-- Added “Lvl” prefix to the tower and shop
+- Added Lvl prefix to the tower and shop
 - Multiple item descriptions fixed
 - Added input buttons to abilities
 - Ability range indicators are now visible everywhere instead of just on existing tiles
 - Tutorial text now moved from the homepage to the tutorial button in the level select
 
-[size=20][u]Bug Fixes[/u][/size]
+[font_size=20][u]Bug Fixes[/u][/font_size]
 - You can now exit the hero select menu by pressing escape
 - Depreciating Munitions mod now properly resets the towers stats when removed
 - Connecting a path to 2 merchant tiles at the same time no longer breaks the choice menu
-- Pressing “Try Again” after losing now loads the correct hero instead of always the Archer
+- Pressing Try Again after losing now loads the correct hero instead of always the Archer
 - Damage numbers disabled to reduce lag and crashes
+[u]                                                                                                          [/u]
 
 
-[font_size=28]2022-09-22: Alpha 2.01[/font_size]
+[font_size=30]Alpha 2.01 - 9/22/2022[/font_size]
 
 [font_size=20][u]Quality of Life[/u][/font_size]
 - The game is no longer always on top.
+[u]                                                                                                          [/u]
 
 
-[font_size=28]2022-09-22: Alpha 2.00[/font_size]
+[font_size=30]Alpha 2.00 - 9/22/2022[/font_size]
 
 [font_size=20][u]Feature[/u][/font_size]
 - You now select a hero before starting the level. There are currently 3 heros with many more planned.
@@ -36,9 +38,10 @@
 [font_size=20][u]Quality of Life[/u][/font_size]
 - Tower damage dealt during the wave is now displayed in the tower edit menu.
 - Poison, Freeze, Expose, Antiheal, and Gold stacks are now shown on the enemy.
+[u]                                                                                                          [/u]
 
 
-[font_size=28]2022-09-16: Alpha 1.04[/font_size]
+[font_size=30]Alpha 1.04 - 9/16/2022[/font_size]
 
 [font_size=20][u]Game Balance[/u][/font_size]
 - Lowered enemy health in earlier waves, raised it in later waves.
@@ -47,15 +50,17 @@
 
 [font_size=20][u]Quality of Life[/u][/font_size]
 - Added current health number to enemies
+[u]                                                                                                          [/u]
 
 
-[font_size=28]2022-09-14: Alpha 1.03[/font_size]
+[font_size=30]Alpha 1.03 - 9/14/2022[/font_size]
 
 [font_size=20][u]Bugfix[/u][/font_size]
 - Fixed a massive game breaking bug where tiles you were placing would be missing segments if the previous tile you placed was rotated.
+[u]                                                                                                          [/u]
 
 
-[font_size=28]2022-09-14: Alpha 1.02[/font_size]
+[font_size=30]Alpha 1.02 - 9/14/2022[/font_size]
 
 [font_size=20][u]Quality of Life[/u][/font_size]
 - Combos now say what enemy they will spawn
@@ -66,9 +71,10 @@
 
 [font_size=20][u]Bugfix[/u][/font_size]
 - Fixed wave ending detection bug. This caused a ton of other bugs that are hopefully also fixed.
+[u]                                                                                                          [/u]
 
 
-[font_size=28]2022-09-14: Alpha 1.01[/font_size]
+[font_size=30]Alpha 1.01 - 9/14/2022[/font_size]
 
 [font_size=20][u]Game Balance[/u][/font_size]
 - Lowered enemy health across the board
@@ -77,9 +83,9 @@
 [font_size=20][u]Bugfix[/u][/font_size]
 - Fixed game over menu bug
 - Fixed level loading bug where game would freeze until you pressed escape
+[u]                                                                                                          [/u]
 
 
-
-[font_size=28]2022-09-14: Alpha 1.00[/font_size]
+[font_size=30]Alpha 1.00 - 9/14/2022[/font_size]
 
 - The very first release! Not much to say here... Everything is new.
