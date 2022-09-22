@@ -1,0 +1,74 @@
+[font_size=28]2022-09-22: Alpha 2.02[/font_size]
+Added stuff
+
+
+
+[font_size=28]2022-09-22: Alpha 2.01[/font_size]
+Quality of life:
+The game is no longer always on top.
+
+
+
+[font_size=28]2022-09-22: Alpha 2.00[/font_size]
+Feature:
+You now select a hero before starting the level. There are currently 3 heros with many more planned.
+
+Balancing:
+Changed the enemy health curve. Enemies will have more health across the board.
+Shop now upgrades automatically when activating merchant tiles. There are now 9 shop levels.
+
+Bugfix:
+Fixed bug where powershot sometimes shot directly into the camera.
+
+Quality of life:
+Tower damage dealt during the wave is now displayed in the tower edit menu.
+Poison, Freeze, Expose, Antiheal, and Gold stacks are now shown on the enemy.
+
+
+
+[font_size=28]2022-09-16: Alpha 1.04[/font_size]
+Balancing:
+Lowered enemy health in earlier waves, raised it in later waves.
+Moved boss tiles closer to castle
+increased bosses health
+
+Bugfix:
+disabled damage numbers, causing too much lag.
+
+Quality of life:
+Added current health number
+
+
+
+[font_size=28]2022-09-14: Alpha 1.03[/font_size]
+Bugfixes:
+Fixed a massive game breaking bug where tiles you were placing would be missing segments if the previous tile you placed was rotated.
+
+
+
+[font_size=28]2022-09-14: Alpha 1.02[/font_size]
+Quality of Life:
+Combos now say what enemy they will spawn
+Game Over, Victory, and Debug Menus are positioned better
+
+Balancing:
+Lowered Loot Goblin movespeed
+
+Bugfixes:
+Fixed wave ending detection bug. This caused a ton of other bugs that are hopefully also fixed.
+
+
+
+[font_size=28]2022-09-14: Alpha 1.01[/font_size]
+Balancing:
+Lowered enemy health across the board
+Lowered thick skin value amount on ore golem and rock troll
+
+Bugfixes:
+Fixed game over menu bug
+Fixed level loading bug where game would freeze until you pressed escape
+
+
+
+[font_size=28]2022-09-14: Alpha 1.00[/font_size]
+The very first release! Not much to say here... Everything is new.
