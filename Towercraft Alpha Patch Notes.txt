@@ -13,7 +13,7 @@
 - Connecting a path to 2 merchant tiles at the same time no longer breaks the choice menu
 - Pressing Try Again after losing now loads the correct hero instead of always the Archer
 - Damage numbers disabled to reduce lag and crashes
-_____________________________________________________________________________________________________________________
+[u]_____________________________________________________________________________________________________________________[/u]
 
 
 [font_size=30]Alpha 2.01 - 9/22/2022[/font_size]
