@@ -1,4 +1,26 @@
 ===================================================================================================================================
+[font_size=30]Alpha 3.00 - 10/3/2022[/font_size]
+
+[font_size=20][u]Quality of Life[/u][/font_size]
+- Ability Tooltips
+- Merchant Tile Tooltips
+- Boss Tile Tooltips
+- Abilities can now be activated by clicking on them
+- Redesigned enemy health bars
+
+[font_size=20][u]Bug Fixes[/u][/font_size]
+- Abilities do significantly less damage against bosses
+- Connecting to the same marketplace multiple times no longer does anything
+- Killing all bosses in a level now properly shows the victory screen
+- Bug reporter fixed
+- Fixed lag when enemies spawned
+
+[font_size=20][u]Balance[/u][/font_size]
+- Loot goblin rebalanced. Now has very low health, high speed, more gold, and no longer drops an item
+- Enemy health lower earlier, and higher later
+- Refresh cost scales linearly instead of exponentially
+
+===================================================================================================================================
 [font_size=30]Alpha 2.03 - 9/27/2022[/font_size]
 
 [font_size=20][u]Quality of Life[/u][/font_size]
