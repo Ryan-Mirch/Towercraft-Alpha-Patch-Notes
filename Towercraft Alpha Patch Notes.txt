@@ -1,3 +1,12 @@
+[font_size=30]Alpha 3.01 - 10/4/2022[/font_size]
+
+[font_size=20][u]Balance[/u][/font_size]
+- Lowered common item costs
+- Refresh cost now scales based on wave
+
+[font_size=20][u]Quality of Life[/u][/font_size]
+- Controller support improved
+
 ===================================================================================================================================
 [font_size=30]Alpha 3.00 - 10/3/2022[/font_size]
 
